@@ -5,9 +5,9 @@
 
 ## 下载地址：
 
-[mobile-arm64_v8a.apk 64位安装包] (https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/mobile-arm64_v8a.apk)
+[mobile-arm64_v8a.apk 64位安装包](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/mobile-arm64_v8a.apk)
 
-[mobile-armeabi_v7a.apk  32位] (https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/mobile-armeabi_v7a.apk)
+[mobile-armeabi_v7a.apk  32位](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/mobile-armeabi_v7a.apk)
 
 ## 使用说明：
 
