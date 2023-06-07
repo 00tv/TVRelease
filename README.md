@@ -3,13 +3,13 @@
 
 ![](/index.jpg)  ![](/setting.jpg)
 
-下载地址：
+##下载地址：
 
 [mobile-arm64_v8a.apk 64位安装包] (https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/mobile-arm64_v8a.apk)
 
 [mobile-armeabi_v7a.apk  32位] (https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/mobile-armeabi_v7a.apk)
 
-使用说明：
+##使用说明：
 
 1、下载安装运行，点右下角的设置图标   零零影视—兼容TVBox接口影视APP安卓手机魔改竖版TVBox下载
 
@@ -19,7 +19,8 @@
 
 
 
-备注：以下是来自网络搜集TVBox接口网址，大家填入即可享受大片小片的快乐
+##接口：
+以下是来自网络搜集TVBox接口网址，大家填入即可享受大片小片的快乐
 
   https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json
 
