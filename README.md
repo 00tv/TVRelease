@@ -1,6 +1,8 @@
 # TVRelease
 零零影视是基于开源项目影视TV二次开发而来，兼容tvbox规则，所有可供用户搜索的内容均来自用户自己添加的第三方订阅源，本应用只是一个播放视频的空壳框架。
 
+![](/index.jpg)  ![](/setting.jpg)
+
 下载地址：
 
 [mobile-arm64_v8a.apk 64位安装包] (https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/mobile-arm64_v8a.apk)
