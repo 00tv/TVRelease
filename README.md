@@ -1,7 +1,7 @@
 # TVRelease 后续更新请点开后收藏：[神马指导员](https://www.smzdy.com/apk/24373.html)
 零零影视是基于开源项目影视TV二次开发而来，兼容tvbox规则，所有可供用户搜索的内容均来自用户自己添加的第三方订阅源，本应用只是一个播放视频的空壳框架。
 
-![](/index.jpg)  ![](/setting.jpg)
+![](/index.jpg)  ![](/setting2.jpg)
 
 ## 下载地址：
 
