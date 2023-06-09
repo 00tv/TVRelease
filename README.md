@@ -22,12 +22,12 @@
 ## 接口：
 以下是来自网络搜集TVBox接口网址，大家填入即可享受大片小片的快乐
 
-  https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json
+https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json
 
-  http://我不是.肥猫.love:63/接口禁止贩卖
+http://xn--ihqu10cn4c.xn--z7x900a.love:63/%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96
 
-  http://饭太硬.top/tv
+http://xn--sss604efuw.top/tv
 
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
+https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
 
 大家复制接口网址，粘贴到零零影视APP里面即可享受免费电影VIP的自由
