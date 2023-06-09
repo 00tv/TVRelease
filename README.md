@@ -1,7 +1,7 @@
 # 零零影视 
 零零影视是基于开源项目影视TV二次开发而来，兼容tvbox规则，所有可供用户搜索的内容均来自用户自己添加的第三方订阅源，本应用只是一个播放视频的空壳框架。
 
-![](/index.jpg)  ![](/setting2.jpg)
+![](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/index.jpg)  ![](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/setting2.jpg)
 
 ## 下载地址：
 
@@ -17,7 +17,7 @@
 
 3、OK了，享受免费的VIP视频服务吧。点击首页右上角”换源“可以更换片源线路。
 
-![](/addUrl.gif) 
+![](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/addUrl.gif) 
 
 ## 接口：
 以下是来自网络搜集TVBox接口网址，大家填入即可享受大片小片的快乐
