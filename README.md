@@ -1,7 +1,7 @@
-# 零零影视 后续更新请点开后收藏：[神马指导员](https://www.smzdy.com/apk/24373.html)
+# 零零影视 
 零零影视是基于开源项目影视TV二次开发而来，兼容tvbox规则，所有可供用户搜索的内容均来自用户自己添加的第三方订阅源，本应用只是一个播放视频的空壳框架。
 
-![](/index.jpg)  ![](/setting2.jpg)
+![](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/index.jpg)  ![](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/setting2.jpg)
 
 ## 下载地址：
 
@@ -17,17 +17,17 @@
 
 3、OK了，享受免费的VIP视频服务吧。点击首页右上角”换源“可以更换片源线路。
 
-![](/addUrl.gif) 
+![](https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/addUrl.gif) 
 
 ## 接口：
 以下是来自网络搜集TVBox接口网址，大家填入即可享受大片小片的快乐
 
-  https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json
+https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json
 
-  http://我不是.肥猫.love:63/接口禁止贩卖
+http://xn--ihqu10cn4c.xn--z7x900a.love:63/%E6%8E%A5%E5%8F%A3%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96
 
-  http://饭太硬.top/tv
+http://xn--sss604efuw.top/tv
 
-  https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
+https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json
 
 大家复制接口网址，粘贴到零零影视APP里面即可享受免费电影VIP的自由
