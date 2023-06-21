@@ -1,7 +1,8 @@
 {
-  "code": 22,
-  "name": "1.2.2",
-  "desc": "新增电视直播功能，至此电影，连续剧，直播全部免费自由了",
+  "code": 23,
+  "name": "1.2.3",
+  "desc": "新增投屏功能！！至此电影，连续剧，直播全部免费自由了",
   "sharetext": "这个APP免费看全网电影，下载安装后记得配置接口哦，复制网址到浏览器打开https://kb000.ml/",
-  "configUrl": "https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json"
+  "configUrl": "https://ghproxy.com/raw.githubusercontent.com/00tv/TVRelease/release/release/00tv.json",
+  "helpUrl": "https://00tv.github.io/"
 }
