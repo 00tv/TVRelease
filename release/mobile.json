@@ -1,8 +1,7 @@
 {
-  "code": 23,
-  "name": "1.2.3",
-  "desc": "新增投屏功能！！至此电影，连续剧，直播全部免费自由了",
+  "code": 25,
+  "name": "1.2.5",
+  "desc": "新增第三方接口导入功能。至此电影，连续剧，直播全部免费自由了",
   "sharetext": "这个APP免费看全网电影，下载安装后记得配置接口哦，复制网址到浏览器打开https://kb000.ml/",
-  "configUrl": "https://o00tv.com/json/00tv.json",
-  "helpUrl": "https://00tv.github.io/"
+  "helpUrl": "https://o00tv.com/"
 }
