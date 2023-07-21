@@ -1,7 +1,7 @@
 {
-  "code": 27,
-  "name": "1.2.7",
-  "desc": "修復導入功能重複打開。播放不了請點左上角切換源",
+  "code": 28,
+  "name": "1.2.8",
+  "desc": "修復分享功能，下载慢请点“备用下载",
   "sharetext": "这个APP免费看全网电影，下载安装后记得配置接口哦，复制网址到浏览器打开https://kb000.ml/",
   "lanzouurl": "https://wwzt.lanzoul.com/b00x34y2h",
   "helpurl": "https://o00tv.com/"
